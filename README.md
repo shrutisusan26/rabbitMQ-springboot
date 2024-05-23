@@ -1,3 +1,5 @@
+RabbitMQ with Spring Boot
+
 This project delves into the fundamentals of integrating RabbitMQ with Spring Boot, illustrating the interplay between producers, exchanges, and consumers in message transmission and reception.
 
 Key Learnings:
