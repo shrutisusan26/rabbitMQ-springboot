@@ -15,6 +15,8 @@ public class RabbitMQProducer {
     @Value("${rabbitmq.routingKey}")
     private String routingKey;
 
+
+
     private static final Logger LOGGER = LoggerFactory.getLogger(RabbitMQProducer.class);
 
     private final RabbitTemplate rabbitTemplate;
